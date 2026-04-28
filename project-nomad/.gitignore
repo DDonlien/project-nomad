@@ -1,0 +1,27 @@
+# Godot 4.x
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Godot Mono / C#
+.mono/
+.godot/mono/
+
+# .NET / Visual Studio / Rider
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
